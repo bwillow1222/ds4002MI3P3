@@ -16,7 +16,7 @@ This project focuses on developing a machine learning-powered tool to assist ado
 - **Jupyter Notebook**: For running and documenting the analysis.
 
 ### Platform:
-- The project was developed and run on **MacOS** but should be compatible with **Windows** and **Linux** systems as well.
+- The project was run in the Rivanna HPC, as access to NVIDIA CUDA is necessary
 
 ---
 
