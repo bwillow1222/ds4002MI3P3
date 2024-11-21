@@ -1,0 +1,7 @@
+torch==2.0.1        # PyTorch for deep learning
+torchvision==0.15.2 # For pre-trained models and data transformations
+numpy==1.25.0       # Numerical computations
+pandas==2.1.1       # Data manipulation
+matplotlib==3.8.0   # Data visualization
+seaborn==0.12.2     # Advanced data visualization
+scikit-learn==1.3.0 # For classification metrics
