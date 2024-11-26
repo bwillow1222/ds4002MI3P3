@@ -33,10 +33,11 @@ bwillow1222/ds4002MI3P3
 │   ├── csv/
 │   │   └── breed_classification_results.csv   # Table output of classification results
 │   ├── visualizations
-│   │   ├── breedDistribution.png      # Breed distribution histogram
-│   │   ├── sampleImage.jpg            # Representative image used in the study
-│   │   ├── trainingPerformance.png    # Training vs. validation accuracy and loss
-│   └─   ── confusionMatrix.png        # Confusion matrix of model predictions
+│   │   ├── breedDistribution.png               # Breed distribution histogram
+│   │   ├── rescue_classification_results.jpg   # Table showing test results
+│   │   ├── sampleImage.jpg                     # Representative image used in the study
+│   │   ├── trainingPerformance.png             # Training vs. validation accuracy and loss
+│   └─   ── confusionMatrix.png                 # Confusion matrix of model predictions
 │
 ├── SCRIPTS/                # Contains all the Python scripts
 │   ├── ImageEDA.ipynb             # Script for data distribution and exploratory plots
